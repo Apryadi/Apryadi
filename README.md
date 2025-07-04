@@ -1,6 +1,6 @@
 # Hi there, I'm Apryadi! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **UI/UX Enthusiast** who loves building innovative digital solutions.
+Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **UI/UX Enthusiast** who loves building innovative digital solutions. Im currently still learning more about Machine Learning, Blockchain, and some Cyber Security.
 
 ## 🚀 About Me
 
