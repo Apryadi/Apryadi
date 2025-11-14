@@ -38,17 +38,6 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **UI/
 - **🔧 Backend Development**: Building robust APIs and server-side applications
 - **🤖 Machine Learning**: Trying to develop while still learning about AI and Machine Learning
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apryadi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apryadi&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apryadi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
 ## 🌟 Featured Projects 
 Im currently still working on a small project like this :
 
