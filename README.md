@@ -73,5 +73,4 @@ I'm always excited to collaborate on interesting projects and connect with fello
 
 <div align="center">
   <i>Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.</i>
-  <i>Im doing this for the love of the game, and money ofc.</i>
 </div>
