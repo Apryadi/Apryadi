@@ -46,6 +46,7 @@ a robot that our team designed to collect trash on the ocean surface.
 
 ### Smart Mirror
 A Portable Smart Mirror that is still under development For future use as a smart home assistant (Hope can make Waifu AI)
+I'm currently working on some funny side project related to this.
 
 ## 🤝 Let's Connect
 
