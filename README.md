@@ -1,13 +1,15 @@
 # Hi there, I'm Apryadi! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **UI/UX Enthusiast** who loves building innovative digital solutions. Im currently still learning more about Machine Learning, Blockchain, and some Cyber Security.
+Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **UI/UX** who loves building innovative digital solutions. Im currently still learning more about Machine Learning, Blockchain, and some Cyber Security.
 
 ## 🚀 About Me
 
-- 💻 **Fullstack Developer** specializing in web and mobile applications
+- 💻 **Fullstack Developer** Still Learning Some Stuff in web applications
 - 🎨 **UI/UX Designer** with a keen eye for user-centered design
 - 🌱 Constantly learning and exploring new technologies
-- 🔧 Hardware enthusiast with experience in Arduino projects
+- 🔧 Hardware enthusiast with experience in Microcontroller (Esp32, Arduino, Rasberry Pi)
+- Currently Learning in network and stuff Because its impactfull for daily basis as well
+- Hope can get in touch with some Cybersecurity typa shi' (Because It's cool)
 
 ## 💼 Technical Skills
 
@@ -16,12 +18,10 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **UI/
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### Frameworks & Technologies
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Design & Tools
@@ -34,26 +34,26 @@ Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** and **UI/
 - **🌐 Web Development**: Creating responsive and dynamic web applications
 - **📱 Mobile Development**: Building cross-platform mobile apps with Flutter
 - **🎨 UI/UX Design**: Designing intuitive and user-friendly interfaces
-- **⚡ Hardware Projects**: Developing IoT solutions with Arduino
-- **🔧 Backend Development**: Building robust APIs and server-side applications
+- **⚡ Hardware Projects**: Developing IoT solutions with Microcontroller (ESP32 and Rasberry Pi)
+- **🔧 Backend Development**: Building robust APIs
 - **🤖 Machine Learning**: Trying to develop while still learning about AI and Machine Learning
 
 ## 🌟 Featured Projects 
 Im currently still working on a small project like this :
 
 ### Autonomous Marine Debris Cleaning Robot (RPSLO)
-a robot that our team designed to collect trash on the ocean surface
+a robot that our team designed to collect trash on the ocean surface. 
 
 ### Smart Mirror
-A Portable Smart Mirror that is still under development For future use as a smart home assistant
+A Portable Smart Mirror that is still under development For future use as a smart home assistant (Hope can make Waifu AI)
 
 ## 🤝 Let's Connect
 
 I'm always excited to collaborate on interesting projects and connect with fellow developers!
 
 - 💼 Open to freelance opportunities
-- 🌱 Currently expanding my knowledge in advanced UI/UX principles
-- 💡 Interested in discussing web development, mobile apps, and design
+- 🌱 Currently expanding my knowledge in advanced UI/UX principles, Networking, and Cyber Security.
+- 💡 Interested in discussing web development, mobile apps, and design.
 
 ## 📈 Profile Views
 
@@ -72,4 +72,5 @@ I'm always excited to collaborate on interesting projects and connect with fello
 
 <div align="center">
   <i>Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.</i>
+  <i>Im doing this for the love of the game, and money ofc.</i>
 </div>
