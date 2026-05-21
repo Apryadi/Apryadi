@@ -66,7 +66,7 @@ I'm always excited to collaborate on interesting projects and connect with fello
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KuroKusaa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apryadi.d.putra)
-
+[![Huggingface](https://huggingface.co/KuroKyusa)
 </div>
 
 ---
