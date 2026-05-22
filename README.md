@@ -56,10 +56,6 @@ I'm always excited to collaborate on interesting projects and connect with fello
 - 🌱 Currently expanding my knowledge in advanced UI/UX principles, Networking, and Cyber Security.
 - 💡 Interested in discussing web development, mobile apps, and design.
 
-## 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Apryadi&color=brightgreen&style=flat-square)
-
 ## Social Media
 
 <div align="center">
